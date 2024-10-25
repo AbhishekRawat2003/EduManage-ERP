@@ -2,7 +2,7 @@
 
 EduManage is a comprehensive student management system designed to streamline the administration of educational institutions. This web application allows administrators, faculty, and students to manage various aspects of student life, including attendance, assignments, and performance monitoring.
 
-![EduManage Logo](https://your-image-link.com/logo.png) <!-- Replace with your project logo -->
+![EduManage Logo](https://www.canva.com/design/DAGUl2N7_6A/3hJHvQ1fBGihDt0QZEv6XA/edit?utm_content=DAGUl2N7_6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <!-- Replace with your project logo -->
 
 ## Table of Contents
 
