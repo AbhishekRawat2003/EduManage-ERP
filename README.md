@@ -1,6 +1,8 @@
-# EduManage Student Management System
+# ![EduManage](https://img.shields.io/badge/EduManage-Student%20Management%20System-blue) 
 
 EduManage is a comprehensive student management system designed to streamline the administration of educational institutions. This web application allows administrators, faculty, and students to manage various aspects of student life, including attendance, assignments, and performance monitoring.
+
+![EduManage Logo](https://your-image-link.com/logo.png) <!-- Replace with your project logo -->
 
 ## Table of Contents
 
@@ -12,7 +14,7 @@ EduManage is a comprehensive student management system designed to streamline th
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Features 🚀
 
 - **User Authentication**: Secure login for students and faculty.
 - **Student Profiles**: Manage student details such as personal information and academic records.
@@ -21,14 +23,14 @@ EduManage is a comprehensive student management system designed to streamline th
 - **Performance Monitoring**: View and analyze student performance and progress reports.
 - **Admin Dashboard**: Admin users can manage users, courses, and overall system settings.
 
-## Technologies Used
+## Technologies Used 🛠️
 
 - **Backend**: Python, Django
 - **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
 - **Database**: SQLite or PostgreSQL (specify based on your setup)
 - **Other Libraries**: FastAPI (if applicable), Motor (for MongoDB if used)
 
-## Installation
+## Installation ⚙️
 
 ### Prerequisites
 
