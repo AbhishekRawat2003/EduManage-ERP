@@ -2,7 +2,6 @@
 
 EduManage is a comprehensive student management system designed to streamline the administration of educational institutions. This web application allows administrators, faculty, and students to manage various aspects of student life, including attendance, assignments, and performance monitoring.
 
-<img src="https://www.canva.com/design/DAGUl2N7_6A/3hJHvQ1fBGihDt0QZEv6XA/edit?utm_content=DAGUl2N7_6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 ## Table of Contents
 
@@ -23,12 +22,21 @@ EduManage is a comprehensive student management system designed to streamline th
 - **Performance Monitoring**: View and analyze student performance and progress reports.
 - **Admin Dashboard**: Admin users can manage users, courses, and overall system settings.
 
+
 ## Technologies Used 🛠️
 
 - **Backend**: Python, Django
 - **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
 - **Database**: SQLite or PostgreSQL (specify based on your setup)
 - **Other Libraries**: FastAPI (if applicable), Motor (for MongoDB if used)
+
+## Tools 🛠️
+
+- **[Visual Studio Code](https://code.visualstudio.com/)**: A powerful code editor for developing the project.
+- **[Canva](https://www.canva.com/)**: For designing visuals and graphics for the project.
+- **[Git](https://git-scm.com/)**: Version control system to manage project changes.
+- **[GitHub](https://github.com/)**: Hosting service for version control using Git, to collaborate and share the project.
+
 
 ## Installation ⚙️
 
@@ -38,6 +46,9 @@ EduManage is a comprehensive student management system designed to streamline th
 2. pip (Python package manager)
 3. Django (version)
 4. MongoDB (if using Motor for MongoDB)
+
+##Tools
+
 
 ### Steps
 
