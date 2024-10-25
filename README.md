@@ -47,8 +47,6 @@ EduManage is a comprehensive student management system designed to streamline th
 3. Django (version)
 4. MongoDB (if using Motor for MongoDB)
 
-##Tools
-
 
 ### Steps
 
